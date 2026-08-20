@@ -4674,6 +4674,17 @@
 				)
 			)
 		)
+		(property "MPN" "SJ-3523-SMT-TR"
+			(at 120.65 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "T"
 			(uuid "8076e477-4f35-4aea-92ea-806319661b5f")
 		)
@@ -4756,6 +4767,17 @@
 				)
 			)
 		)
+		(property "MPN" "RC0805FR-072K4L"
+			(at 177.8 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5f8ebaca-a7ff-4746-8c98-bb86562654cd")
 		)
@@ -4828,6 +4850,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 228.6 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "S2B-PH-K-S"
 			(at 228.6 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -5188,6 +5221,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 257.81 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CRCW08054K70FKEA"
 			(at 257.81 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -5831,6 +5875,17 @@
 				)
 			)
 		)
+		(property "MPN" "CRCW08051K00FKEA"
+			(at 62.23 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b3391e53-2546-4780-aae5-1c269a66e9da")
 		)
@@ -5910,6 +5965,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL21B104KBCNNNC"
+			(at 80.01 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "74f1eb94-c680-4b09-86ca-5d52146518ca")
 		)
@@ -5979,6 +6045,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 220.98 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CRCW08051K00FKEA"
 			(at 220.98 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -6562,6 +6639,17 @@
 				)
 			)
 		)
+		(property "MPN" "25YXF100MEFCT16.3X11"
+			(at 54.61 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e0d38a65-2d07-4322-a6c0-a49b37b688fb")
 		)
@@ -6790,6 +6878,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 80.01 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "25YXF100MEFCT16.3X11"
 			(at 80.01 127 0)
 			(hide yes)
 			(show_name no)
@@ -7280,6 +7379,17 @@
 				)
 			)
 		)
+		(property "MPN" "CRCW08054K70FKEA"
+			(at 262.89 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b7d36c60-a050-42b0-bae5-70a34e335d0f")
 		)
@@ -7361,6 +7471,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 229.87 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "APT2012SGC"
 			(at 229.87 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -7761,6 +7882,17 @@
 				)
 			)
 		)
+		(property "MPN" "CRCW08051K00FKEA"
+			(at 220.98 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bfb3a10f-4cc6-4a7c-85de-720c523de2c3")
 		)
@@ -8007,6 +8139,17 @@
 				)
 			)
 		)
+		(property "MPN" "25YXF100MEFCT16.3X11"
+			(at 54.61 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "84944b44-b9cf-4816-be0d-631c55296240")
 		)
@@ -8088,6 +8231,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 229.87 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "APT2012SGC"
 			(at 229.87 92.71 0)
 			(hide yes)
 			(show_name no)

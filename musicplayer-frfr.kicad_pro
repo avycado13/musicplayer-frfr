@@ -627,7 +627,13 @@
       "dashed_lines_gap_length_ratio": 3.0,
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
-      "field_names": [],
+      "field_names": [
+        {
+          "name": "MPN",
+          "url": false,
+          "visible": false
+        }
+      ],
       "hop_over_size_choice": 0,
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
@@ -669,7 +675,7 @@
         "uuid": "bfb5b358-4a92-42db-85c8-cef3966431e1"
       }
     ],
-    "used_designators": "SW1-6,#FLG1-3,C1-4,#PWR1-26,D1-2,R1-7,J1-4,U1-3",
+    "used_designators": "U1-3,J1-4,R1-7,D1-2,#PWR1-26,C1-4,#FLG1-3,SW1-6",
     "variants": []
   },
   "sheets": [
