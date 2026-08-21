@@ -22,3 +22,9 @@ Also finished my PCB and made it about the size of an ipod! I used this plugin c
 
 ![Schematic](images/3.png)
 **Time Spent**: 1 Hour
+
+# August 21:
+I made some changes to make the board a lot nicer like rounding the corners and redoing the layout so that the xiao is at the bottom. I also added a power switch so i should be able to toggle power and still charge it while off.
+
+![updated PCB](images/4.png)
+**Time Spent**: 1 Hour
