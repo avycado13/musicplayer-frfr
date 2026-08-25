@@ -28,3 +28,9 @@ I made some changes to make the board a lot nicer like rounding the corners and 
 
 ![updated PCB](images/4.png)
 **Time Spent**: 1 Hour
+
+# August 24:
+I fixed my fabrication files with this cool plugin called fabrication toolkit and i also fixed kicad being stupid and not importing parts or something. I also added a nice silkscreen of orpheus going woah.
+
+![pcb with silkscreen](https://cdn.hackclub.com/01a0367c-7193-7043-9757-9fdc5860dbff/Screenshot%202026-08-24%20at%2018.15.17.png)
+**Time Spent**: 2 Hours
