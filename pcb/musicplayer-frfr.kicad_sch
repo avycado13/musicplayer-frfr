@@ -4905,6 +4905,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C4991872"
+			(at 123.19 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "T"
 			(uuid "8076e477-4f35-4aea-92ea-806319661b5f")
 		)
@@ -4998,6 +5009,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C114521"
+			(at 177.8 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5f8ebaca-a7ff-4746-8c98-bb86562654cd")
 		)
@@ -5081,6 +5103,17 @@
 			)
 		)
 		(property "MPN" "S2B-PH-K-S"
+			(at 228.6 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C157932"
 			(at 228.6 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -5249,6 +5282,28 @@
 				)
 			)
 		)
+		(property "MPN" "TS4550CJ"
+			(at 180.34 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C557612"
+			(at 180.34 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "de1040c4-c376-41af-9da1-ab8555de3c18")
 		)
@@ -5318,6 +5373,28 @@
 			)
 		)
 		(property "Description" ""
+			(at 91.44 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "DFR0299"
+			(at 91.44 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C5371690"
 			(at 91.44 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -5452,6 +5529,17 @@
 			)
 		)
 		(property "MPN" "CRCW08054K70FKEA"
+			(at 257.81 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C844941"
 			(at 257.81 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -5687,6 +5775,28 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 246.38 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" " 68604-804HLF"
+			(at 246.38 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C7191451"
 			(at 246.38 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -6106,6 +6216,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C844939"
+			(at 62.23 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b3391e53-2546-4780-aae5-1c269a66e9da")
 		)
@@ -6142,7 +6263,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 80.01 140.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6186,6 +6307,17 @@
 			)
 		)
 		(property "MPN" "CL21B104KBCNNNC"
+			(at 80.01 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C1711"
 			(at 80.01 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -6286,6 +6418,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C844939"
+			(at 220.98 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3a31d7f8-bc4a-4ca1-9a8f-5b1a56919075")
 		)
@@ -6359,6 +6502,28 @@
 		)
 		(property "Description" "1A Standalone Linear Li-ion/LiPo single-cell battery charger, 4.2V ±1% charge voltage, VCC = 4.0..8.0V, SOIC-8 (SOP-8)"
 			(at 164.338 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TP4056-42-ESOP8"
+			(at 163.83 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C16581"
+			(at 163.83 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6869,6 +7034,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C88722"
+			(at 54.61 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e0d38a65-2d07-4322-a6c0-a49b37b688fb")
 		)
@@ -7027,6 +7203,28 @@
 				)
 			)
 		)
+		(property "MPN" "TS4550CJ"
+			(at 213.36 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C557612"
+			(at 213.36 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "de1040c4-c376-41af-9da1-ab8555de3c19")
 		)
@@ -7117,6 +7315,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C88722"
+			(at 80.01 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d904eaac-bb4a-47ce-9d8b-29258fa41768")
 		)
@@ -7189,6 +7398,28 @@
 		)
 		(property "Description" ""
 			(at 86.36 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "102010550"
+			(at 86.36 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C41882923"
+			(at 86.36 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7608,6 +7839,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C844941"
+			(at 262.89 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b7d36c60-a050-42b0-bae5-70a34e335d0f")
 		)
@@ -7700,6 +7942,17 @@
 			)
 		)
 		(property "MPN" "APT2012SGC"
+			(at 229.87 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C5353439"
 			(at 229.87 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -8111,6 +8364,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C844939"
+			(at 220.98 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bfb3a10f-4cc6-4a7c-85de-720c523de2c3")
 		)
@@ -8181,6 +8445,28 @@
 			)
 		)
 		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
+			(at 180.34 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" " EC11E18244AU"
+			(at 180.34 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C202365"
 			(at 180.34 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -8368,6 +8654,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C88722"
+			(at 54.61 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "84944b44-b9cf-4816-be0d-631c55296240")
 		)
@@ -8460,6 +8757,17 @@
 			)
 		)
 		(property "MPN" "APT2012SGC"
+			(at 229.87 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C5353439"
 			(at 229.87 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -8862,6 +9170,28 @@
 				)
 			)
 		)
+		(property "MPN" "OS102011MS2QN1"
+			(at 130.81 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C221829"
+			(at 130.81 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "2fdd13d6-71a1-4d30-a2ac-e4a8ec140968")
 		)
@@ -9013,6 +9343,28 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 198.12 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TS4550CJ"
+			(at 198.12 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C557612"
 			(at 198.12 124.46 0)
 			(hide yes)
 			(show_name no)
