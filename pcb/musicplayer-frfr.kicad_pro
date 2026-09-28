@@ -710,13 +710,21 @@
         "uuid": "bfb5b358-4a92-42db-85c8-cef3966431e1"
       }
     ],
-    "used_designators": "U1-3,J1-4,R1-7,D1-2,#PWR1-26,C1-4,#FLG1-3,SW1-6",
+    "used_designators": "TP1-3,U1-5,J1-5,R1-8,D1-9,#PWR1-35,C1-12,#FLG1-3,SW1-10",
     "variants": []
   },
   "sheets": [
     [
       "bfb5b358-4a92-42db-85c8-cef3966431e1",
       "Root"
+    ],
+    [
+      "d2190aac-54c6-40b1-8032-338b44aad134",
+      "Audio"
+    ],
+    [
+      "a14809be-3464-4106-b9ac-baa9c0426af4",
+      "SD Card"
     ]
   ],
   "text_variables": {},

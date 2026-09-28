@@ -1,6 +1,6 @@
 ---
 title: "My Music Player"
-github: "musicplayer-frfr"
+github: "avycado13/musicplayer-frfr"
 description: "a basic music player i can use without pulling out my phone"
 created_at: "2026-08-19"
 ---
@@ -34,3 +34,11 @@ I fixed my fabrication files with this cool plugin called fabrication toolkit an
 
 ![pcb with silkscreen](https://cdn.hackclub.com/01a0367c-7193-7043-9757-9fdc5860dbff/Screenshot%202026-08-24%20at%2018.15.17.png)
 **Time Spent**: 2 Hours
+
+# Sep 23: Redesigned Whole Schematic
+I redesigned the whole schematic to be more interesting and be able to handle more use cases. I kept the Xiao RP2350 as a main processor for handling the UI and display, but removed the dedicated battery charging chip because I learnt that the Xiao supports that built in. I scrapped the DFplayer because it could only handle MP3 files, had weird ways of choosing what to play, and only supported mono audio. Instead, I replaced it with a PCM5102 DAC and a TPA6130A2RTJT Headphone amplifier. This gives me a lot better control over the volume and more flexibility over whats playing. The RP2350 does not have great support for decoding audio codecs like AAC, so I added an ESP32-S3-WROOM  connected to the RP2350 over SPI to do audio decoding and control the DAC and Amp. Another advantage of this is that the ESP32 also has Bluetooth and Wi-Fi so I could theoretically add support for a phone app to upload music and maybe even last.fm scrobbling support with a RTC. I switched it to use a 9 button array for controls and a bigger screen where you can actually read the text. For storing music, I used an SD Card reader that is directly connected over SDMMC to the ESP32.
+
+![Main Sheet](images/5a.png)
+![Audio Stuff](images/5b.png)
+![SD Card](images/5c.png)
+**Time Spent**: 3.5 Hours
