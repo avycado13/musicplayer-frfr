@@ -42,3 +42,8 @@ I redesigned the whole schematic to be more interesting and be able to handle mo
 ![Audio Stuff](images/5b.png)
 ![SD Card](images/5c.png)
 **Time Spent**: 3.5 Hours
+
+# Sep 28: Add RTC
+I added a Real Time Clock to keep accurate time. Now I should hopefully be able to log when songs were played and scrobble them to Last.fm. I reorganized my schematic as well.
+![Main Schematic](images/6.png)
+**Time Spent**: 1.5 Hours
