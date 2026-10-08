@@ -48,3 +48,8 @@ I added a Real Time Clock to keep accurate time. Now I should hopefully be able 
 
 ![Main Schematic](images/6.png)
 **Total Time Spent: 1.5 Hours**
+
+# Oct 7: Assigned Footprints and Did Lay Out
+I assigned all the footprints for the parts and did the layout. I had to be careful to avoid the ESP32's keep out zone and to make space for my display. I placed the headphone jack at the top for convenience when its in my pocket.
+![PCB with Layout](images/7.png)
+**Total Time Spent: 3 Hours**

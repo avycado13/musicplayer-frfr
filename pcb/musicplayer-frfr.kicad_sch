@@ -6397,7 +6397,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "ESP Enable"
 			(at 204.47 140.2079 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6408,7 +6408,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 207.01 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -6484,7 +6484,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_2012-2Pin_2.0x1.2mm_HandSoldering"
 			(at 232.41 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -7165,7 +7165,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 140.462 99.06 90)
 			(hide yes)
 			(show_name no)
@@ -7244,7 +7244,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 			(at 229.87 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -7267,6 +7267,28 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated"
+			(at 229.87 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 229.87 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" ""
 			(at 229.87 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -7448,7 +7470,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 208.28 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -7527,7 +7549,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 238.76 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -7989,7 +8011,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 256.54 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -8173,7 +8195,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 196.85 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -8799,7 +8821,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 196.85 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -9367,7 +9389,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 88.392 149.86 90)
 			(hide yes)
 			(show_name no)
@@ -9527,7 +9549,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 96.012 153.67 90)
 			(hide yes)
 			(show_name no)
@@ -10540,7 +10562,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 193.04 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -10574,7 +10596,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "344e87f9-d76f-4d25-9e6c-864dba500836")
+			(uuid "344e87f9-d76f-4d25-9e6c-864dba500837")
 		)
 		(instances
 			(project "musicplayer-frfr"
@@ -10957,7 +10979,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 208.28 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -11036,7 +11058,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 257.81 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -11598,7 +11620,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 240.03 38.1 0)
 			(hide yes)
 			(show_name no)
