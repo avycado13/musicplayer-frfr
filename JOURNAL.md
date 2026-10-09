@@ -5,7 +5,7 @@ description: "a basic music player i can use without pulling out my phone"
 created_at: "2026-08-19"
 ---
 
-# August 18: Started project
+# August 18: Started Project
 I started this project for the lock in huddle and decided on using a seeed xiao rp2350 and a dfplayer mini for the main electronics. I also started working on the schematic and got half way through wiring the seeed,and the tp4056 chip with the battery.
 
 ![Schematic](images/1.jpg)
@@ -17,7 +17,7 @@ I locked in on finishing the schematic! I finished wiring the dfplayer mini with
 
 ![Schematic](images/2.png)
 **Total Time Spent: 2 Hours**
-
+# August 19
 Also finished my PCB and made it about the size of an ipod! I used this plugin called (KiCad Routing tools)[https://github.com/drandyhaas/KiCadRoutingTools] and it made routing so much easier and faster!
 
 ![Schematic](images/3.png)
@@ -53,3 +53,9 @@ I added a Real Time Clock to keep accurate time. Now I should hopefully be able 
 I assigned all the footprints for the parts and did the layout. I had to be careful to avoid the ESP32's keep out zone and to make space for my display. I placed the headphone jack at the top for convenience when its in my pocket.
 ![PCB with Layout](images/7.png)
 **Total Time Spent: 3 Hours**
+
+
+# Oct 9: Routed PCB
+I routed the PCB and added a GND fill. I also cleaned up the schematic.
+![Routed PCB](images/8.png)
+**Total Time Spent: 1 Hour**
