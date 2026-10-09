@@ -6,21 +6,29 @@
     }
   ],
   "created_files": [
-    "packages3D/Button_Switch_THT.3dshapes/SW_Slide_SPDT_Straight_CK_OS102011MS2Q.step",
-    "packages3D/Resistor_SMD.3dshapes/R_0805_2012Metric.step",
-    "packages3D/Button_Switch_THT.3dshapes/SW_PUSH_6mm.step",
     "packages3D/Capacitor_SMD.3dshapes/C_0805_2012Metric.step",
+    "packages3D/Button_Switch_THT.3dshapes/SW_PUSH_6mm.step",
+    "packages3D/Connector_Card.3dshapes/microSD_HC_Hirose_DM3AT-SF-PEJM5.step",
+    "packages3D/Resistor_SMD.3dshapes/R_0805_2012Metric.step",
+    "packages3D/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step",
+    "packages3D/Button_Switch_THT.3dshapes/SW_Slide_SPDT_Straight_CK_OS102011MS2Q.step",
+    "packages3D/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step",
+    "packages3D/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.step",
     "packages3D/Connector_JST.3dshapes/JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal.step",
-    "packages3D/Capacitor_THT.3dshapes/CP_Radial_D6.3mm_P2.50mm.step",
-    "packages3D/LED_SMD.3dshapes/LED_0805_2012Metric.step",
-    "packages3D/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
+    "packages3D/Package_SO.3dshapes/TSSOP-20_4.4x6.5mm_P0.65mm.step",
+    "packages3D/RF_Module.3dshapes/ESP32-S3-WROOM-1.step"
   ],
-  "created_dirs": [],
+  "created_dirs": [
+    "packages3D/Connector_Card.3dshapes",
+    "packages3D/Diode_THT.3dshapes",
+    "packages3D/Package_SO.3dshapes",
+    "packages3D/RF_Module.3dshapes"
+  ],
   "summary": {
     "models": {
-      "files_copied": 8,
-      "remapped": 18,
-      "unique_sources": 8
+      "files_copied": 11,
+      "remapped": 47,
+      "unique_sources": 11
     }
   }
 }

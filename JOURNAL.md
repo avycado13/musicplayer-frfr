@@ -59,3 +59,9 @@ I assigned all the footprints for the parts and did the layout. I had to be care
 I routed the PCB and added a GND fill. I also cleaned up the schematic.
 ![Routed PCB](images/8.png)
 **Total Time Spent: 1 Hour**
+
+# Oct 9: Generated Production Files
+I generated my BOM and drill files from KiCad. I also made my IBOM for when I assemble it. All the KiCad dependencies should be embedded already.
+
+![IBOM](images/9.png)
+**Total Time Spent: 30 Minutes**
