@@ -65,3 +65,10 @@ I generated my BOM and drill files from KiCad. I also made my IBOM for when I as
 
 ![IBOM](images/9.png)
 **Total Time Spent: 30 Minutes**
+
+# Oct 18: CADed Case
+The XIAO footprints from the seed studio library dont contain 3d models for some reason, so I embedded and centered a 3d model of the xiao. WHen I was centering it on it's pads, probably wasnt too precise, but it worked well enough. I then imported the pcb STEP file into onshape and made a shell around it and then a plate. I will probably use heatset inserts to attach the two pieces.
+
+![CAD](images/10.png)
+**Total Time Spent: 2 Hours**
+**Lapse Link: https://lapse.hackclub.com/timelapse/uIk2kXMYPiVJ**
