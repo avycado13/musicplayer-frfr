@@ -13435,13 +13435,25 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 10 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "/Users/avy/Downloads/Same_Sky_SJ-3523-SMT-TR/Same_Sky_SJ-3523-SMT-TR.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 2.25)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 -0 -0)
 			)
 		)
 	)
@@ -14002,15 +14014,6 @@
 		(path "/1f535190-8df1-4d58-bd16-6c95dd51cd1d")
 		(sheetname "/")
 		(sheetfile "musicplayer-frfr.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "15" "16" "17" "18" "23" "24" "25"
-					"29" "26" "30" "27" "28" "14" "13" "12" "11" "10" "9" "8" "22" "21"
-					"20" "19"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14516,7 +14519,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeeduino XIAO SAMD21 v4.step"
@@ -14564,6 +14567,17 @@
 			)
 			(rotate
 				(xyz -90 0 0)
+			)
+		)
+		(model "/Users/avy/Downloads/seeed-studio-xiao-rp2350-1.snapshot.2/XIAO RP2350_.step"
+			(offset
+				(xyz -1.5 -6.1 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)
